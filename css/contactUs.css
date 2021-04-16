@@ -1,0 +1,30 @@
+.contactUs {
+    position: relative;
+    width: 100%;
+    padding: 5px;
+    margin-top: 5px;
+}
+
+.footer1 {
+    position: relative;
+    bottom: 0;
+    margin-top: 10px;
+    height: 200px;
+    background-color: rgb(170, 73, 73);
+}
+
+.fcolumn {
+    float: left;
+    width: 30%;
+    padding: 20px;
+    height: 110px;
+}
+
+.fcolumn a {
+    color: black;
+    padding: 15px;
+}
+
+.fcolumn a:hover {
+    color: cornsilk;
+}
